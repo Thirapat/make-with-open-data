@@ -9,6 +9,6 @@ The goal with these is to build the smallest thing possible to demonstrate value
 ## Projects
 Each project has a project brief with more detail linked below (the titles are descriptive and not meant for marketing, come up with something fun!)
 
-1. **SFPD Incident Explorer** - help the police department empower folks with ad hoc geographic queries using open data
-2. **Interactive Quarterly Pipeline Report** - help Planning bring all of their hard analytical work about development in SF to the web
-3. **Road Work Schedule and Mapping** - DPW has a dataset on utility and excavation projects - help them communicate that work to the public
+1. [**SFPD Incident Explorer**](https://github.com/sfbrigade/make-with-open-data/blob/master/sfpd-incident-explorer.md) - help the police department empower folks with ad hoc geographic queries using open data
+2. [**Interactive Quarterly Pipeline Report**](https://github.com/sfbrigade/make-with-open-data/blob/master/quarterly-planning-reports.md) - help Planning bring all of their hard analytical work about development in SF to the web
+3. [**Road Work Schedule and Mapping**](https://github.com/sfbrigade/make-with-open-data/blob/master/road-work-schedule.md) - DPW has a dataset on utility and excavation projects - help them communicate that work to the public

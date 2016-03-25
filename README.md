@@ -6,6 +6,8 @@ A repository of ideas that can be made with SF Open Data.
 
 The goal with these is to build the smallest thing possible to demonstrate value. That means these projects should and could avoid servers, sysadmin, etc and focus on what's possible leveraging existing code, the open data APIs, etc. Why? Because we need to show how folks can get started. We need recipes, not multi-tenant solutions built from scratch. Of course, each of these could be expanded, but you must fight that instict, build fast and small first (think about scale, but don't become encumbered by it).
 
+Note: do not let perfect be the enemy of good. If in the process of building, data aren't in the perfect format, or there are issues, take note of the limitations, build what you can and get that feedback to the data stewards through DataSF so we can have a tighter loop on demonstrating how open data can be leveraged. Just don't get hung up.
+
 ## Projects
 Each project has a project brief with more detail linked below (the titles are descriptive and not meant for marketing, come up with something fun!)
 
